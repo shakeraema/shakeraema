@@ -1,5 +1,17 @@
 # 💫 About Me:
-+8801854088947 | shakerajannatema@gmail.com | shakeraema.portfolio<br>shakera-ema | shakeraema<br>Sylhet, Bangladesh<br>Objective<br>Passionate and detail-oriented software developer with strong skills in full-stack web development, problem solving,<br>and application design. Committed to building efficient, user-focused solutions and contributing to impactful projects<br>through creativity, collaboration, and continuous learning.<br>Technical Skills<br>• Languages: C++, Python, JavaScript, Java<br>• Web/Frameworks: React.js, Node.js, Express.js, Tailwind<br>CSS, React Vite, React Native<br>• Databases: MySQL, MongoDB<br>• Core: Data Structures, Algorithms, OOP, Problem Solv-<br>ing<br>• Mobile Development: React Native, Expo, Firebase, Re-<br>act Navigation, AsyncStorage, React Native Chart Kit<br>• File Uploads: Multer, Cloudinary<br>• Payments: SSLCommerz<br>Achievements<br>• Authentication: JWT, Bcrypt, Firebase<br>• Data Science & Machine Learning: NumPy, Pandas,<br>Scikit-learn, Seaborn, Matplotlib<br>• Tools & Platforms: Google Colab, Kaggle, Selenium,<br>Unit Testing<br>• Software Development: Java, C/C++, SFML, JavaFX,<br>Java Swing<br>• Design & Marketing: Figma, Canva, Product Marketing<br>• Networking & Simulation: Cisco Packet Tracer<br>• 1st — Ideathon (Metropolitan)<br>• 2nd — UIHP Cohort-2 SUST (BDT 50,000, “Kotha”)<br>• Finalist — ICPC Algo Queen 2023 (Rank 92/121)<br>Education<br>Shahjalal University of Science and Technology B.Sc. in Software Engineering Projects<br>Mar 2022 – Present<br>Sylhet, Bangladesh<br>• Radiant-Ornate — E-commerce Platform<br>Stack: React.js, Express.js, Node.js, MongoDB<br>• SUST Karate Club Website<br>Stack: React (Vite), Tailwind CSS, MySQL, Node.js<br>• StuSphere — Habit & Journal App<br>Stack: React Native, Expo, CSS, Firebase<br>• Parkinson Disease Prediction (SVM)<br>Stack: Python, Machine Learning<br>• Cybersecurity Game — CLI<br>Stack: Python<br>Mini Projects & Games<br>• Java Game — Flappy Bird<br>• To-do App — Python<br>• 2650 Block Game — C++/SFML<br>• To-do App — JS/HTML/CSS<br>• Tic-Tac-Toe — JS/HTML/CSS<br>• Tic-Tac-Toe — CLI (C++)<br>• Resume/CV/Portfolio<br>• Calculator — JavaFX<br>• Snake Game — C<br>Certifications & Participations<br>• Python Programming and Data Science — EDGE Bangladesh (2025)<br>• Deep Learning — Coursera (2025)<br>• Algo-Queen Participant Certification — IBM Quantum<br>• Selected for UIHP Bangladesh — 1st Cohort<br>• Participated in ICPC Regional - 2023<br>• Competed in Blockchain Olympiad 2024<br>Extracurricular Activities<br>• Member — Shikorh Cultural Club, KIN (Volunteer), SUST Karate Club<br>• Volunteer — BDApps National Hackathon (Sylhet, 2022): Registration & Helpline<br>• Organizer — SUST SWE Technovent (2023): Decoration & Cultural<br>• Research Assistant — Bengal AI (2024): Thesis data collection
+# 💫 Hi 👋, I'm Shakera Ema  
+**A passionate Full-Stack Developer || Problem Solver || Tech Enthusiast from Sylhet, Bangladesh**
+
+Email Me 👉 ✉️ **shakerajannatema@gmail.com** for Collaboration/Projects or anything else. 😊😊  
+
+- 🔭 **I’m currently working on:** Full-stack web and mobile projects (React, Node.js, MongoDB, Firebase)  
+- 🌱 **I’m currently learning:** Advanced Backend Systems, Machine Learning, Cloud Deployment  
+- 👯 **I’m looking to collaborate on:** Open-source projects, startup ideas, and hackathons  
+- 🤔 **I’m looking for help with:** Scaling backend systems & advanced ML models  
+- 💬 **Ask me about:** Web Development, React, Node.js, Firebase, Problem Solving  
+- 📫 **How to reach me:** [shakerajannatema@gmail.com](mailto:shakerajannatema@gmail.com)  
+- 😄 **Pronouns:** She/Her  
+- ⚡ **Fun fact:** I love coding games as much as building real-world apps! 🎮  
 
 
 ## 🌐 Socials:
