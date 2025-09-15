@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 💫 Hi 👋, I'm Shakera Ema  
+# Hi 👋, I'm Shakera Ema  
 **A passionate Full-Stack Developer || Problem Solver || Tech Enthusiast from Sylhet, Bangladesh**
 
 Email Me 👉 ✉️ **shakerajannatema@gmail.com** for Collaboration/Projects or anything else. 😊😊  
