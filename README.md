@@ -1,39 +1,221 @@
-# 💫 About Me:
-# Hi 👋, I'm Shakera Ema  
-**A passionate Full-Stack Developer || Problem Solver || Tech Enthusiast from Sylhet, Bangladesh**
+# Hi, I'm Shakera Jannat Ema 👋
 
-Email Me 👉 ✉️ **shakerajannatema@gmail.com** for Collaboration/Projects or anything else. 😊😊  
+### Software Engineer | AI/ML Engineer | Full-Stack Developer
 
-- 🔭 **I’m currently working on:** Full-stack web and mobile projects (React, Node.js, MongoDB, Firebase)  
-- 🌱 **I’m currently learning:** Advanced Backend Systems, Machine Learning, Cloud Deployment  
-- 👯 **I’m looking to collaborate on:** Open-source projects, startup ideas, and hackathons  
-- 🤔 **I’m looking for help with:** Scaling backend systems & advanced ML models  
-- 💬 **Ask me about:** Web Development, React, Node.js, Firebase, Problem Solving  
-- 📫 **How to reach me:** [shakerajannatema@gmail.com](mailto:shakerajannatema@gmail.com)  
-- 😄 **Pronouns:** She/Her  
-- ⚡ **Fun fact:** I love coding games as much as building real-world apps! 🎮  
+Software Engineering graduate from **Shahjalal University of Science & Technology (SUST)** with professional experience in software development and AI/ML research.
 
+I build **AI-powered applications, full-stack systems, and intelligent software solutions**, with particular interests in **NLP, Speech Processing, LLMs, RAG, and trustworthy AI**.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ShakeraEmaa/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shakera_ema/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shakera-jannat-ema-994932238/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shakerajannatema@gmail.com) 
+🏆 **NASA Space Apps Challenge 2025 — Global Finalist**  
+🏆 **Best Paper Award (ML & AI) — LURS Student Research Conference 2026**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shakeraema&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shakeraema&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeraema&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shakeraema&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shakeraema&limit=5&theme=dark&combine_all_yearly_contributions=true)
+📍 Dhaka, Bangladesh  
+📧 **shakerajannatema@gmail.com**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shakeraema&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Do
+
+- 🤖 Build AI/ML-powered applications and intelligent systems
+- 🧠 Work with NLP, Speech Processing, LLMs and RAG
+- 🌐 Develop full-stack applications with React, Node.js and FastAPI
+- 📱 Build cross-platform mobile applications with React Native
+- 🔬 Conduct research in NLP, Speech Processing, HCI and Trustworthy AI
+- ⚙️ Design REST APIs and backend services
+- 🗄️ Work with relational and NoSQL databases
+- 🚀 Deploy and integrate production-oriented applications
+
+---
+
+## 🧠 Research Interests
+
+- Natural Language Processing
+- Speech Processing & Bangla Language Technology
+- Large Language Models
+- Retrieval-Augmented Generation
+- Explainable AI
+- Federated Learning
+- Trustworthy AI
+- Human–Computer Interaction
+- Usability Engineering
+
+---
+
+## 🛠️ Core Technologies
+
+### Languages
+`Python` `JavaScript` `TypeScript` `Java` `C++` `SQL`
+
+### AI / Machine Learning
+`PyTorch` `TensorFlow` `Scikit-learn` `NumPy` `Pandas`  
+`Transformers` `Whisper` `Wav2Vec2` `OpenCV`  
+`NLP` `Speech Processing` `Explainable AI`
+
+### Generative AI
+`LLMs` `RAG` `LangGraph` `LangChain` `ChromaDB`
+
+### Full-Stack Development
+`React.js` `Next.js` `Node.js` `Express.js` `FastAPI`  
+`REST APIs` `Tailwind CSS` `Vite`
+
+### Mobile
+`React Native` `Expo` `Firebase`
+
+### Databases
+`PostgreSQL` `MongoDB` `MySQL` `Firebase`
+
+### Tools & Platforms
+`Git` `GitHub` `Docker` `Google Colab` `Kaggle` `Figma` `LaTeX`
+
+---
+
+## ⭐ Selected Projects
+
+### 🚨 RoadGuardian AI
+**LangGraph · FastAPI · RAG · ChromaDB · React**
+
+Multi-agent AI emergency response platform designed for emergency coordination, hospital recommendation, and multilingual assistance.
+
+🔗 [Live Demo](https://road-gaurdian-ai-v2.vercel.app/)
+
+---
+
+### 🧠 NovaMind XR
+**React · Three.js · Node.js · MongoDB · AI**
+
+AI-powered adaptive learning platform combining personalized tutoring with immersive 3D learning experiences.
+
+🔗 [Live Demo](https://novamind-xr-inv2.vercel.app/)
+
+---
+
+### 🗣️ Bangla STT Pipeline
+**Python · NLP · Whisper · Wav2Vec2 · Speech Processing**
+
+Modular Bangla speech-to-text pipeline for noisy and code-mixed speech, including ASR benchmarking, text normalization, language identification and evaluation using WER/CER.
+
+🔗 [GitHub](https://github.com/ema-shakera/STT-TTS-Bangla)
+
+---
+
+### 🌌 Stellar Tales
+**React · Vite · NASA API · NOAA API**
+
+Interactive educational PWA focused on space-weather concepts for children.
+
+🔗 [Live Demo](https://steller-tales.vercel.app)
+
+---
+
+### 🧬 Dengue Prediction with Explainable AI
+**Python · Scikit-learn · SHAP · LIME**
+
+Machine learning system for dengue prediction with explainability techniques to improve model interpretation.
+
+---
+
+### 🛣️ Pathik
+**React · Node.js · Firebase · PWA**
+
+Full-stack Bangladesh travel companion with itinerary management and location-based services.
+
+🔗 [Live Demo](https://pathik-db6ee.web.app/)
+
+---
+
+## 🔬 Research
+
+### From Forgetting to Factuality
+**Formalizing the Unlearning–Hallucination Interaction in Large Language Models**
+
+Proposed the **UHIF framework** and **HalUnlearn-Bench** through a systematic review of 57 papers on LLM unlearning and hallucination.
+
+🏆 **Best Paper Award — ML & AI**  
+📢 Accepted for Oral Presentation at **LURS Student Research Conference 2026**
+
+---
+
+### BanLegit-Cite
+**A Benchmark for Legal Citation Reliability in Bangladeshi Law**
+
+Research project investigating citation reliability and factual consistency in Bangladeshi legal documents.
+
+📄 Submitted to **ICCIT 2026**
+
+---
+
+## 💼 Experience
+
+### Software Engineering Intern — ShellBeeHaken Ltd.
+**Dec 2025 – May 2026**
+
+- Built and shipped React Native screens for a production application.
+- Completed 20+ React Native projects to strengthen mobile development fundamentals.
+- Architected a modular Bangla STT/TTS pipeline for an Agentic Call Center.
+- Benchmarked 15+ preprocessing and ASR configurations for noisy, code-mixed speech.
+
+---
+
+## 🏆 Highlights
+
+- 🌍 **Global Finalist — NASA Space Apps Challenge 2025**
+- 🥇 **Best Paper — LURS Student Research Conference 2026**
+- 🥇 **1st Place — Ideathon, Metropolitan University**
+- 🥈 **2nd Place — UIHP Cohort-2, SUST**
+- 🏆 **Finalist — International AI in Healthcare Hackathon 2026**
+- 🏆 **Finalist — DIU AI Project Competition 2026**
+- 🏆 **Top-30 Finalist (24th) — THE INFINITY AI BUILDFEST 2026**
+- 🎓 **Selected — Harvard Health Hackathon 2026**
+- 🏅 **Finalist — ICPC Algo Queen 2023**
+
+---
+
+## 📚 Currently Exploring
+
+- Advanced Machine Learning
+- Large Language Model Engineering
+- AI Agents & Agentic Systems
+- Speech & Language Technology
+- System Design
+- Cloud & Backend Engineering
+- Scalable AI Applications
+
+---
+
+## 🤝 Open To
+
+I'm interested in collaborating on:
+
+- AI/ML research
+- NLP & Speech Processing
+- Generative AI
+- AI Agent systems
+- Full-stack applications
+- Open-source projects
+- Research collaborations
+- Innovative startup projects
+
+📩 **Let's build something meaningful together.**
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakera-jannat-ema-994932238)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shakeraema)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-shakera-emaa.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakerajannatema@gmail.com)
+
+---
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=shakeraema&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shakeraema&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeraema&theme=dark&hide_border=true&layout=compact)
+
+---
+
+### 💡 "Build, research, learn, and keep shipping."
